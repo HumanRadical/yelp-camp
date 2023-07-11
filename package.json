@@ -1,0 +1,20 @@
+{
+  "name": "yelp-camp",
+  "version": "1.0.0",
+  "description": "A Yelp clone app made following along with The Web Developer Bootcamp on Udemy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HumanRadical/yelp-camp"
+  },
+  "author": "Easton Meth",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.2"
+  }
+}
